@@ -18,8 +18,6 @@ st.divider()
 st.subheader('Skills')
 st.markdown(
     """
-    This website was built with Streamlit and is hosted on Google Cloud, however most of my cloud experience is on AWS.
-
     **Cloud:** AWS, GCP
     
     **Languages:** Python, R, SQL, HTML, Javascript, SAS, Matlab
